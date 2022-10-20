@@ -32,6 +32,5 @@ for url in links:
 				print(var)	
 	else:
 		print('Nic nie znalazłem')
-#Test		
 			
 
